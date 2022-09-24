@@ -1,6 +1,5 @@
 # Food-Recipes
 
-# Food-Recipes
 
 ## Screenshots of the Food Recipe Website
 
