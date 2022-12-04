@@ -1,5 +1,5 @@
 # Food-Recipes
-
+# **Belajar Fundamental Front-End Web Development**
 # **Submission: Membuat Aplikasi Web dengan ES6, Custom Element, NPM, Webpack, dan AJAX**
 ## Kriteria Submission
 1. Menggunakan standar ES6 sintaks dalam menuliskan kode JavaScript pada proyek yang dibuat.
